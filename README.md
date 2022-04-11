@@ -1,0 +1,2 @@
+# python
+BAŞLANGIÇ SEVİYESİ PYTHON ÖRNEKLER
